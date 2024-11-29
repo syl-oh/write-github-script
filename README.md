@@ -1,3 +1,3 @@
-# GitHub Actions tests
+# Write GitHub script
 
-Experimenting...
+Experimenting with workflows.
